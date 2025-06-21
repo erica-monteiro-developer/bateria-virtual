@@ -28,4 +28,4 @@ git clone https://github.com/seu-usuario/bateria-virtual.git
 2. Extraia o arquivo e abra o arquivo <code>index.html</code>
 
 ## Acesse o site no Github Pages
-O projeto está no ar no Github Pages, acesse <a href="https://erica-monteiro-developer.github.io/bateria-virtual/" target="_blank">aqui</a>.
+O projeto está no ar no Github Pages, acesse <a href="https://erica-monteiro-developer.github.io/bateria-virtual-js/" target="_blank">aqui</a>.
