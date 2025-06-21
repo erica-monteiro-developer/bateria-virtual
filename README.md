@@ -1,6 +1,6 @@
-# Bateria Virtual
+# Bateria Virtual 
 
-Projeto simples de uma bateria  virtual feito com HTML, CSS e JavaScript.
+Projeto simples de uma bateria virtual (instrumento musical) feito com HTML, CSS e JavaScript.
 
 ## 🔧 Tecnologias
 
@@ -16,7 +16,7 @@ Projeto simples de uma bateria  virtual feito com HTML, CSS e JavaScript.
 
 ## 🖼️ Demonstração
 
-[Coloque um gif ou link de deploy futuramente aqui]
+![Bateria Virtual](projeto_em_execucao.gif)
 
 ## 🚀 Como executar
 
@@ -26,3 +26,6 @@ git clone https://github.com/seu-usuario/bateria-virtual.git
 ```
 
 2. Extraia o arquivo e abra o arquivo <code>index.html</code>
+
+## Acesse o site no Github Pages
+O projeto está no ar no Github Pages, acesse <a href="https://erica-monteiro-developer.github.io/bateria-virtual/" target="_blank">aqui</a>.
